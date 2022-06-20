@@ -16,31 +16,30 @@ The format of the competition has differed over the years. Currently, teams of 4
 ### Workshops
 
 ### The Team
-2021-22 Executives:
-Miranda Zhao - Copresident
-Hao Cui - Copresident
-Anthony Chen - Treasury + Web
-Olivia Huang - Marketing
-Max Lu - Marketing
-Aris Chen 
-William Dai
-Emily Ma
+2021-22 Executives:\
+Miranda Zhao - Copresident\
+Hao Cui - Copresident\
+Anthony Chen - Treasury + Web\
+Olivia Huang - Marketing\
+Max Lu - Marketing\
+Aris Chen \
+William Dai\
+Emily Ma\
 Maggie Pang
 
 
-2020-21 Executives:
-Andrew Liang - President
-Miranda Zhao - Vice President
-Hao Cui
-Ethan Hu
-Laura Gao
-Andrew Wu
+2020-21 Executives:\
+Andrew Liang - President\
+Miranda Zhao - Vice President\
+Hao Cui\
+Ethan Hu\
+Laura Gao\
+Andrew Wu\
 Jonathan Wu
 
 2019-20: Executives
-Michael Li
+Michael Li \
 Kevin Wan
-??
 
 No data for other years. (Email us if you want to add information) 
 
