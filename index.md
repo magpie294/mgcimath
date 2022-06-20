@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Marc Garneau Math Club
 
-You can use the [editor on GitHub](https://github.com/slightlyskepticalpotat/mgcimath/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MGCI Math Club is the math club at Marc Garneau Collegiate institute! We're a community of students 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Throughout the course of the year, we run weekly lectures and organize teams to go to various competitions such as the CHMMC, CMIMC, Girls in Math at Yale, and ARML. 
 
 ### Markdown
 
