@@ -12,6 +12,10 @@ The Marc Garneau Math Tournament is an opportunity for teams across the GTA to m
 
 The format of the competition has differed over the years. Currently, teams of 4 compete in three rounds; team, guts, and individual. The 2021-22 MGMT ran on June 20th, 2022 from 3-8 pm. 
 
+Wolfram generously sponsored us to provide some of the prizes that were available at this year's MGMT. Many thanks!
+
+![MGMT](mgmt.jpg)
+![Wolfram](wolfram.png)
 
 ### Workshops
 
