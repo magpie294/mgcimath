@@ -20,6 +20,19 @@ Wolfram generously sponsored us to provide some of the prizes that were availabl
 ### Workshops
 
 ### The Team
+2022-23 Executives:\
+Miranda Zhao - President\
+Maggie Pang - VP of Events\
+Emily Ma - VP of Lectures\
+Olivia Huang - Marketing\
+Anthony Chen - Treasury + Web\
+Caroline Cheng\
+Elaine Qian\
+Darian Yan\
+Aris Chen\
+William Dai\
+Andrew Lin
+
 2021-22 Executives:\
 Miranda Zhao - Copresident\
 Hao Cui - Copresident\
@@ -42,9 +55,10 @@ Jonathan Wu
 
 2019-20 Executives: \
 Michael Li \
-Kevin Wan\
+Kevin Wan
 
-No data for other years. (Email us if you want to add information) 
+Please contact us if you have information for other years.
 
 
 ### Contact Us
+[mgci.math.society@gmail.com](mailto:mgci.math.society@gmail.com)
