@@ -1,4 +1,5 @@
 ## MGCI Math Club
+## [Resources](/resources)
 
 MGCI Math Club is the math club at Marc Garneau Collegiate Institute! We're a community of students dedicated to promoting math in our school.  
 
