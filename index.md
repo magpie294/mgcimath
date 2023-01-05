@@ -1,8 +1,8 @@
-## Marc Garneau Math Club
+## MGCI Math Club
 
-MGCI Math Club is the math club at Marc Garneau Collegiate institute! We're a community of students dedicated to promoting math in our school.  
+MGCI Math Club is the math club at Marc Garneau Collegiate Institute! We're a community of students dedicated to promoting math in our school.  
 
-Throughout the course of the year, we run weekly lectures and organize teams to go to various competitions such as the CHMMC, CMIMC, Girls in Math at Yale, and ARML. 
+Through the course of the year, we run weekly lectures and organize teams to go to various competitions such as the CHMMC, CMIMC, Girls in Math at Yale, and ARML. 
 
 ### MGMT
 
