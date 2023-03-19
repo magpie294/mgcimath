@@ -3,16 +3,21 @@
 
 If you want to suggest a resource not on this list, shoot us an email!
 
-### Books
+### MGCI Math Club Lectures 2023
+| Name | Lecturers | Link |
+| ------------- | ------------- | ------------- |
+| Intro | Miranda, Emily, Maggie | [Link](https://docs.google.com/presentation/d/1cHIVlLIarG8RvZYfFRbLjMjGB6gYCTJ8jHeIWWrdS5s/edit)|
+| Polynomials | Darian, Andrew | [Link](https://docs.google.com/presentation/d/1yBRlQeVmjx_dCeoCAefpedQJN54H3MWsbHEMLRtwPTo/edit)|
+| Symmetry | Maggie, Olivia | [Link](https://docs.google.com/presentation/d/1UmLhSEQcGhHbF49Yorup8m0k7e5olOjq1SRpvH69WPg/edit?usp=sharing)|
+| COMC Prep | Anthony, Aris | [Link](https://docs.google.com/presentation/d/10u_LctdqpSVPtUzyZq-ndzd79cZBkSsiOSBzcTVzMCc/edit)|
+| Social Event | Emily, Carol | [Link](https://docs.google.com/presentation/d/1WAJA_mcExbI7wuiFVb0nm7u8d_GsIse6yvkNbboY9Lg/edit)|
+| AMC Prep | William, Miranda | [Link](https://docs.google.com/presentation/d/1MO7L_PF9kRMuHOxv2klyDAosYTVk1ZnECA5KO9wlN38/edit?usp=sharing)|
+| Pigeonhole Principle | Emily | [Link](https://docs.google.com/presentation/d/1bIFWPU-ufHMEMfyMB7AxnxXaxfeBwO1XdQWEUC1aOYQ/edit)|
+| Modular Origami | Maggie | [Link](https://docs.google.com/presentation/d/1w7DtoyDrsKdytWgMEib5rLV_239gv4szhDRwWOfZ8bk/edit)|
+| Puzzles | Olivia, Caroline | [Link](https://docs.google.com/presentation/d/1B9AkIh_es-7h3kSjPkvv0X6qHVfBauow3_8b5C_Iyec/edit)|
 
-| Name | Link |
-| ------------- | ------------- |
-| Euclidean Geometry in Mathematical Olympiads | [Link](https://drive.google.com/file/d/1Q6xK3wqc7O-DdRPvdfk9nFi9cTghf-Wj/view) |
-| A Problem Book in Algebra | [Link](https://www.isinj.com/mt-amc12/A%20Problem%20Book%20in%20Algebra%20-%20Krechmar%20(MIR,%201978).pdf) |
-| Mathematical Formulas & Strategies | [Link](https://drive.google.com/file/d/1WluTIscnUqCXouVfoj6edc23aupyGjAL/view) |
-| Modern Olympiad Number Theory | [Link](https://drive.google.com/file/d/1BcJTLjQaelZ4w_70oHKyImC2I8zLfyrt/view) |
-| Olympiad Combinatorics | [Link](https://drive.google.com/file/d/1sQtirXxkEfWYuGSKDZ-d7VGYkR_idebY/view) |
-| The OTIS Excerpts | [Link](https://web.evanchen.cc/textbooks/OTIS-Excerpts.pdf) |
+
+MGCI Math Club did not create the resources listed below
 
 ### Contest Training
 
