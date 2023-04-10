@@ -15,8 +15,12 @@ The format of the competition has differed over the years. Currently, teams of 4
 
 Wolfram generously sponsored us to provide some of the prizes that were available at this year's MGMT. Many thanks!
 
+A special thanks to Wolfram, Jane Street, and TTMath for sponsoring the 2023 MGMT!
+
 ![MGMT](mgmt.jpg)
 ![Wolfram](wolfram.png)
+![Jane Street](jane.png)
+![TTMath](ttmath.png)
 
 ### Workshops
 
